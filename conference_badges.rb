@@ -12,3 +12,5 @@ attendees.map do |attendee|
  "Hello, my name is #{attendee}."
  end
 end
+
+def assign_rooms
