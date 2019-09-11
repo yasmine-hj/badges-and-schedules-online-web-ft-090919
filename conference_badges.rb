@@ -8,6 +8,6 @@ end
 
 
 def batch_badge_creator(attendees)
-attendees.map do 
-  
+attendees.map do |attendee|
+  puts 
 end
