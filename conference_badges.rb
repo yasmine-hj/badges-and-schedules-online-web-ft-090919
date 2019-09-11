@@ -1,8 +1,8 @@
 # Write your code here.
-attendees = 
+attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 
-def badge_maker
+def badge_maker (attendees)
   
   
 end
