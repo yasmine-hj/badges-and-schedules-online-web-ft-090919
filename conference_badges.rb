@@ -8,9 +8,5 @@ end
 
 
 def batch_badge_creator(attendees)
-  counter=0
-  
-  
-  
-  counter+=1
+attendees
 end
