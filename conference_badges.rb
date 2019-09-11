@@ -8,5 +8,6 @@ end
 
 
 def batch_badge_creator(attendees)
-attendees
+attendees.map do 
+  
 end
